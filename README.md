@@ -111,7 +111,7 @@ To build and run this app locally you will need a few things:
 ### Clone the repository
 
 ```bash
-git clone https://github.com/shanhuiyang/TypeScript-MERN-Starter.git <project_name>
+git clone https://github.com/softgiant-nICE/MERN-Starter.git <project_name>
 ```
 
 ### Install dependencies
